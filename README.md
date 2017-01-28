@@ -8,10 +8,13 @@ Alternative AI technologies/algorithms to PNN
 
 Output
 Using TensorFlow backend.
+
 Epoch 1/100
 11s - loss: 0.0322
+
 Epoch 2/100
 2s - loss: 0.0147
+
 Epoch 3/100
 2s - loss: 0.0116
 ......
