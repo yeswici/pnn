@@ -9,5 +9,6 @@ Alternative AI technologies/algorithms to PNN
 Output
 
 Train Score: 23.57 RMSE -> back-test accuracy on train data = 76.43% -- OK
+
 Test Score: 51.02 RMSE  -> back-test accuracy on test data = 48.98%  -- random
 
