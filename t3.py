@@ -1,3 +1,4 @@
+# Long short-term memory (LSTM) is a recurrent neural network (RNN) architecture (an artificial neural network) proposed in 1997 by Sepp Hochreiter and Jürgen Schmidhuber.
 # LSTM for international airline passengers problem with regression framing
 import numpy
 import matplotlib.pyplot as plt
