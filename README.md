@@ -6,7 +6,8 @@ Alternative AI technologies/algorithms to PNN
 2. cd ~/pnn
 3. python3 t3.pnn
 
-Output
+# Output
+
 Using TensorFlow backend.
 
 Epoch 1/100
