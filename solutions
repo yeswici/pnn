@@ -1,0 +1,5 @@
+Problem
+Error in if (capabilities("libcurl")) { : argument is of length zero
+
+Solution
+install.packages('RCurl')
