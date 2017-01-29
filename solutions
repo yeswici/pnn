@@ -3,3 +3,11 @@ Error in if (capabilities("libcurl")) { : argument is of length zero
 
 Solution
 install.packages('RCurl')
+
+Verify tensorflow on R
+
+library(tensorflow)
+sess = tf$Session()
+hello <- tf$constant('Hello, TensorFlow!')
+sess$run(hello)
+
