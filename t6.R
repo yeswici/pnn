@@ -2,7 +2,7 @@
 
 #This is a sample tensorflow program running in R
 
-#run: chmod +x t6.R; sudo ./t6.R
+# p21 -> run: chmod +x t6.R; sudo ./t6.R
 
 
 library(tensorflow)
